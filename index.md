@@ -1,14 +1,5 @@
 # CMSE 495 - Fall 2025 Data Science Capstone
 
-
----
-**NOTE**
-
-### Seeking Fall 2025 and Spring 2026 Project community partners!
-
-If you have a project and are interested in being a CMSE495 community partner for **_Fall 2025_** and/or **_Spring 2026_** please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project community partner please see our [Project community partner Page](./Seeking-Community_Partners)
-
-
 ---
 
 The CMSE 495 data science capstone course is intended to provide students with an opportunity to put together what they have learned across multiple courses to develop a final project that demonstrates their ability to work in a team on real-world problems.
@@ -36,6 +27,7 @@ The class will meet three times a week during the 15-week semester. Classroom ti
 
 When possible, the majority of time outside of class will be dedicated to tasks and deliverables that relate directly to the capstone teams’ projects.  
 
+
 ## Course Links
 
 - [Course Syllabus](Syllabus)
@@ -53,6 +45,7 @@ When possible, the majority of time outside of class will be dedicated to tasks 
 - [Code Review Instructions and resources](https://www.pyopensci.org/)
 - [README Generator Tool](https://readme.so/editor)
 - [Tutorials for making Potent Presentations](https://www.eval.org/Education-Programs/Potent-Presentations)
+
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

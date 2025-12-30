@@ -2,7 +2,7 @@
 
 In Spring of 2026, class will meet weekly 12:30-1:40PM in Engineering Building 1145.
 
-[Click this link to download an ical file of this schedule](./CMSE495_Calendar.ics)
+[Click this link to download an ical file of this schedule](./CMSE495_SPRING_2026_Calendar.ics)
 
 Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Mondays on days we have class.
 
