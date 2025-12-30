@@ -12,7 +12,7 @@ The capstone course has the following learning goals:
 
 ## Course Format and Activities
 
-The class will meet three times a week during the 15-week semester and will be delivered **_synchronously_**.  Students are expected to attend class during the designated class period (MWF 9:30-10:40am). Classroom time will be divided across three broad activity categories:
+The class will meet three times a week during the 15-week semester and will be delivered **_synchronously_**.  Students are expected to attend class during the designated class period (MWF 12:30-1:40PM). Classroom time will be divided across three broad activity categories:
 
 - Project planning, team meetings, milestones and reports (Mondays)
 - Professional skills training and practice (Wednesdays)
@@ -34,7 +34,7 @@ There is a **_LOT_** of material to cover this semester. To help provide some st
 
 Once students are assigned to a team they will be added to a private team channel in the course Microsoft Team:
 
-* [Link to Course Teams Channel](https://teams.microsoft.com/l/team/19%3AdbqhTZkH-Zz0BLs4_Z99m_YGA0NheodUqwEC4VBycjk1%40thread.tacv2/conversations?groupId=00b9e709-3d27-4397-9b88-ae7ef08a3770&tenantId=22177130-642f-41d9-9211-74237ad5687d)
+* [Link to Course Teams Channel](https://teams.microsoft.com/l/channel/19%3A4z3zRAgN2sM1vl1fVMkBZ6ddKb0fuYEOxRfm-7TQAok1%40thread.tacv2/General?groupId=6be58af8-47f2-4930-aab1-48e9514126f2&tenantId=22177130-642f-41d9-9211-74237ad5687d)
 
 Teams will be expected to use either email or this channel for team communications. This will help the instructor stay organized and informed. 
 
@@ -120,12 +120,12 @@ There are a variety of course activities, with percentages of total grade listed
 
 | Activity | Grade Percentage |
 |----------|------------------|
-| In-Class Participation | 10 |
+| Individual Course Contributions | 20 | 
+| Individual Reflections | 20 |
 | Team Logistics | 10 | 
-| SCHOLAR Tutorial Development | 15 | 
-| Project Milestones | 20 |
-| Individual Teamwork Score | 20 |
-| Final Project Deliverables | 25 |
+| SCHOLAR Tutorial | 10 |
+| Weekly Project Milestones | 20 |
+| Final Project | 20 |
 | Total | 100% |
 
 
@@ -159,11 +159,11 @@ Accompanying course information, including the official course calendar, can be 
 
 ## Course Meeting Time and Location
 
-Classes will meet weekly on **_Monday, Wednesday and Friday 9:30-10:40am in Holmes Hall room W9_**.
+Classes will meet weekly on **_Monday, Wednesday and Friday 12:30-1:40pm in Engineering Building Room 1145_**.
 
 If, during the semester there is a need, we have set aside the following zoom room for this course. Teams must notify the instructor before class if one of their members needs to connect to class remotely (ex. due to illness or travel).  
 
-- <https://msu.zoom.us/j/96198911253>
+[Zoom Link](https://msu.zoom.us/j/96198911253)
 
 
 ## Course Schedule
@@ -185,28 +185,37 @@ All required readings will be provided as Open Educational Resource (OER) via li
 
 **_Lead Instructor_**:
 
+Dr. Justin Gambrell (he/him)  
+Department of Computational Mathematics, Science and Engineering (CMSE)   
+**_Email_**: gambre11@msu.edu  
+**_Office_**: ???  
+**_Virtual Office_**:  [Justin's Zoom Office](https://msu.zoom.us/j/96475559158)  
+Passcode: 596028  
+**_Office Hours_**:  ???
+
+---
+
+**_Co-Instructor_**: 
+
 Dr. Dirk Colbry (he/him/his)  
 Institute for Cyber Enabled Research (ICER) and Department of Computational Mathematics, Science and Engineering (CMSE)  
 **_Email_**: colbrydi@msu.edu  
 **_Web_**:  <http://www.dirk.colbry.com>  
 **_Office_**: [EB 1516](https://cmse.msu.edu/about/directions/)  
 **_Virtual Office_**:  [Dirk's Zoom Office](https://msu.zoom.us/my/colbrydi)  
-**_Office Hours_**:  I have an hour before and after class blocked off for Mondays and Wednesdays (we can meet inside or next to our classs room) and Thursday 1:00-2:00pm In my office ([EB 1516](https://cmse.msu.edu/About/directions.aspx)) of via zoom (if you remind me). 
+**_Office Hours_**: ??? I have an hour before and after class blocked off for Mondays and Wednesdays (we can meet inside or next to our classs room) and Thursday 1:00-2:00pm In my office ([EB 1516](https://cmse.msu.edu/About/directions.aspx)) of via zoom (if you remind me). 
 
 * Please visit <http://bookdirk.colbry.com/> to schedule an appointment.
 
 ---
 
-**_Co-Instructor_**:
- 
-Dr. Justin Gambrell (he/him)  
-Department of Computational Mathematics, Science and Engineering (CMSE)   
-**_Email_**: gambre11@msu.edu  
-**_Office_**: none  
-**_Virtual Office_**:  [Justin's Zoom Office](https://msu.zoom.us/j/96475559158)  
-Passcode: 596028  
-**_Office Hours_**:  Tuesdays 3:00-5:00 pm online only
+**_Teaching Assistant_**:
 
+Mohammad Rajaian Hoonejani
+**_Email_**: rajaianm@msu.edu  
+**_Office_**: ??? 
+**_Virtual Office_**: ???
+**_Office Hours_**: ???
 
 # Course Policies and Expectations
 
@@ -217,11 +226,6 @@ All student's in the course are expected to follow Michigan State University Acc
 * [Acceptable Use Policy for MSU Information Technology Resources](https://tech.msu.edu/about/guidelines-policies/aup/)
 
 In addition to the above, many of the community partners will require students to sign an Non-Disclosure Agreement (NDA) and in some rare cases will be asked to sign an Intellectual Property (IP) agreement.  Your instructor will work with you so that you understand your rights and you will not be required to sign either document.    If students are unwilling or unable to sign these document they will be assigned to an alternative project.
-
-- [Standard NDA Template](./Files/CMSE495_MSU_Standard_NDA_template.docx)
-- [Standard IP Template](./Files/CMSE495_MSU_Standard_IP_Agreement_template.docx)
-
-Note: The above are examples of the standard agreements. Slight variations may be made depending on the project community partner's needs and will be given to students to review before project selection.
 
 ## Class Attendance 
 
@@ -241,7 +245,7 @@ At times, we will send out important course information via email.  This email 
 
 In addition to email, students will be expected to check the course Teams Channel.  Students are responsible for all information sent to Teams. It is highly recommended that students download the app and turn on alerts.  
 
-* [Link to Course Teams channel](https://teams.microsoft.com/l/team/19%3AdbqhTZkH-Zz0BLs4_Z99m_YGA0NheodUqwEC4VBycjk1%40thread.tacv2/conversations?groupId=00b9e709-3d27-4397-9b88-ae7ef08a3770&tenantId=22177130-642f-41d9-9211-74237ad5687d)
+* [Link to Course Teams channel](https://teams.microsoft.com/l/channel/19%3A4z3zRAgN2sM1vl1fVMkBZ6ddKb0fuYEOxRfm-7TQAok1%40thread.tacv2/General?groupId=6be58af8-47f2-4930-aab1-48e9514126f2&tenantId=22177130-642f-41d9-9211-74237ad5687d)
 
 ## Inclusive Classroom Behavior 
 
