@@ -1,4 +1,4 @@
-# CMSE 495 - Fall 2025 Data Science Capstone
+# CMSE 495 - SPRING 2026 Data Science Capstone
 
 ---
 
@@ -8,15 +8,6 @@ The capstone course has three major goals:
 1. Provide students with a high impact, end-to-end project experience where they can apply classroom experiences and data science skills to solve real-world problems. 
 2. Provide students with opportunities to learn and practice professional skills (communication, teamwork and leadership) in the context of team-based projects.
 3. Provide opportunities for students and faculty in the department to build relationships and network with industry partners, community organizations, and campus colleagues. 
-
-## Team Projects
-Michigan State University and the Department of Computational Mathematics Science and Engineering would like to thank these generous community partners for supporting our students.  A list of past community partners can be found by clicking on the following links:
-
-- [Spring 2022 Partner List](./Partners-2022)
-- [Spring 2023 Partner List](./Partners-2023)
-- [Spring 2024 Partner List](./Partners-2024)
-
-If you have a project and are interested in being a future CMSE495 community partner for please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project community partner please see our [Project community partner Page](./Seeking-Community_Partners)
 
 ## Course Structure
 The class will meet three times a week during the 15-week semester. Classroom time will be divided across three broad activity categories:
