@@ -18,17 +18,6 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-SS26/Sched
 LOCATION:Engineering Building 1145
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: ASSIGNMENT Project Review Presentation
-DTSTART;TZID=US/Eastern:20260116T000000
-DTEND;TZID=US/Eastern:20260117T000000
-DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-SS26/Sched
- ule/0116-ASSIGNMENT_Project_Review_Presentation'>Link to assignment</a>
-LOCATION:Engineering Building 1145
-LOCATION:https://msu-cmse-courses.github.io/cmse495-SS26/Schedule/0116-ASS
- IGNMENT_Project_Review_Presentation
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CMSE495: Class Agenda Project Review
 DTSTART;TZID=US/Eastern:20260116T093000
 DTEND;TZID=US/Eastern:20260116T104000
@@ -62,17 +51,6 @@ DTEND;TZID=US/Eastern:20260121T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-SS26/Sched
  ule/0121-CyberAmbassadors_Teaming_Up'>Link to assignment</a>
 LOCATION:Engineering Building 1145
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CMSE495: ASSIGNMENT First Team Meeting
-DTSTART;TZID=US/Eastern:20260123T000000
-DTEND;TZID=US/Eastern:20260124T000000
-DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-SS26/Sched
- ule/0123-ASSIGNMENT_First_Team_Meeting'>Link to assignment</a>
-LOCATION:Engineering Building 1145
-LOCATION:https://msu-cmse-courses.github.io/cmse495-SS26/Schedule/0123-ASS
- IGNMENT_First_Team_Meeting
-TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CMSE495: Team Meeting
