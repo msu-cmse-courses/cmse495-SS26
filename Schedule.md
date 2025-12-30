@@ -1,77 +1,137 @@
 # Course Schedule  
 
-In Spring of 2026, class will meet weekly 12:30-1:40Pm in Engineering Building 1145.
+In Spring of 2026, class will meet weekly 12:30-1:40PM in Engineering Building 1145.
 
 [Click this link to download an ical file of this schedule](./CMSE495_SPRING_2026_Calendar.ics)
 
 Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Mondays on days we have class.
 
-| Tuesday | 08/25 | Welcome |
-| Thursday | 08/27 | CyberAmbassadors First Contact |
-| Saturday | 08/29 | ASSIGNMENT Project Review Presentation |
+
+## Week of January 12
+
+| Day | Date | Description |
+|------|---------|------------|
+| Monday | 01/12 | Welcome |
+| Wednesday | 01/14 | CyberAmbassadors First Contact |
+| Friday | 01/16 | ASSIGNMENT Project Review Presentation |
 |  |  | Class Agenda Project Review |
+| Sunday | 01/18 | MILESTONE Project Preferences |
 
-## Week of August 31
+## Week of January 19
 
 | Day | Date | Description |
 |------|---------|------------|
-| Monday | 08/31 | MILESTONE Project Preferences |
-| Tuesday | 09/01 | Holiday University Closed |
-| Thursday | 09/03 | CyberAmbassadors Teaming Up |
-| Saturday | 09/05 | ASSIGNMENT First Team Meeting |
+| Monday | 01/19 | Holiday University Closed |
+| Wednesday | 01/21 | CyberAmbassadors Teaming Up |
+| Friday | 01/23 | ASSIGNMENT First Team Meeting |
 |  |  | Team Meeting |
+| Sunday | 01/25 | MILESTONE Project Organization |
 
-## Week of September 7
-
-| Day | Date | Description |
-|------|---------|------------|
-| Monday | 09/07 | MILESTONE Project Organization |
-| Tuesday | 09/08 | Anticpating Challenges |
-| Thursday | 09/10 | CyberAmbassadors Speaking up |
-| Saturday | 09/12 | SCHOLAR Review |
-
-## Week of September 14
+## Week of January 26
 
 | Day | Date | Description |
 |------|---------|------------|
-| Monday | 09/14 | MILESTONE Plan |
-| Tuesday | 09/15 | Project Plan |
-| Thursday | 09/17 | Community Engaged Learning |
-| Saturday | 09/19 | SCHOLAR Pull request |
+| Monday | 01/26 | Anticpating Challenges |
+| Wednesday | 01/28 | CyberAmbassadors Speaking up |
+| Friday | 01/30 | SCHOLAR Review |
+| Sunday | 02/01 | MILESTONE Plan |
 
-## Week of September 21
-
-| Day | Date | Description |
-|------|---------|------------|
-| Monday | 09/21 | MILESTONE Plan Video Storyboard |
-| Tuesday | 09/22 | Proposal Presentation Storyboard Review |
-| Thursday | 09/24 | CyberAmbassadors Lets talk |
-| Saturday | 09/26 | SCHOLAR Presentations |
-
-## Week of September 28
+## Week of February 2
 
 | Day | Date | Description |
 |------|---------|------------|
-| Monday | 09/28 | MILESTONE Plan Video |
-| Tuesday | 09/29 | Proposal Presentations |
-| Thursday | 10/01 | CyberAmbassadors Leveling Up |
-| Saturday | 10/03 | Selection Matrix |
+| Monday | 02/02 | Project Plan |
+| Wednesday | 02/04 | Community Engaged Learning |
+| Friday | 02/06 | SCHOLAR Pull request |
+| Sunday | 02/08 | MILESTONE Plan Video Storyboard |
 
-## Week of October 5
-
-| Day | Date | Description |
-|------|---------|------------|
-| Monday | 10/05 | MILESTONE Outreach |
-| Tuesday | 10/06 | Outreach Review |
-| Thursday | 10/08 | CyberAmbassadors Its Complicated |
-| Saturday | 10/10 | Tutorial Selection |
-
-## Week of October 12
+## Week of February 9
 
 | Day | Date | Description |
 |------|---------|------------|
-| Monday | 10/12 | MILESTONE Install Instructions |
-| Tuesday | 10/13 | Install Instruction Review |
+| Monday | 02/09 | Proposal Presentation Storyboard Review |
+| Wednesday | 02/11 | CyberAmbassadors Lets talk |
+| Sunday | 02/15 | MILESTONE Plan Video |
+
+## Week of February 16
+
+| Day | Date | Description |
+|------|---------|------------|
+| Monday | 02/16 | Proposal Presentations |
+| Wednesday | 02/18 | CyberAmbassadors Leveling Up |
+| Friday | 02/20 | SCHOLAR Presentations |
+| Sunday | 02/22 | MILESTONE Outreach |
+
+## Week of February 23
+
+| Day | Date | Description |
+|------|---------|------------|
+| Monday | 02/23 | Outreach Review |
+| Wednesday | 02/25 | CyberAmbassadors Its Complicated |
+| Friday | 02/27 | Selection Matrix |
+| Sunday | 03/08 | MILESTONE Install Instructions |
+
+## Week of March 9
+
+| Day | Date | Description |
+|------|---------|------------|
+| Monday | 03/09 | Install Instruction Review |
+| Wednesday | 03/11 | CyberAmbassadors Leading the Team |
+| Friday | 03/13 | Tutorial Selection |
+| Sunday | 03/15 | MILESTONE MVP Presentation Storyboard |
+
+## Week of March 16
+
+| Day | Date | Description |
+|------|---------|------------|
+| Monday | 03/16 | MVP Presentation Storyboard Review |
+| Wednesday | 03/18 | CyberAmbassadors Leading the Change |
+| Friday | 03/20 | Tutorial Pull Requests |
+| Sunday | 03/22 | MILESTONE MVP Video |
+
+## Week of March 23
+
+| Day | Date | Description |
+|------|---------|------------|
+| Monday | 03/23 | MVP Presentations |
+| Wednesday | 03/25 | CyberAmbassadors Leading with Principles |
+| Friday | 03/27 | Deep Tutorial Review |
+| Sunday | 03/29 | MILESTONE Reproducability |
+
+## Week of March 30
+
+| Day | Date | Description |
+|------|---------|------------|
+| Monday | 03/30 | Figure Reproducibility Review |
+| Wednesday | 04/01 | Project CoWork 2 |
+| Friday | 04/03 | Tutorial Presentations |
+| Sunday | 04/05 | MILESTONE Full Project Draft |
+
+## Week of April 6
+
+| Day | Date | Description |
+|------|---------|------------|
+| Monday | 04/06 | Full Project Review |
+| Wednesday | 04/08 | Project CoWork 3 |
+| Friday | 04/10 | Project CoWork 4 |
+| Sunday | 04/12 | MILESTONE Final Presentation Storyboard |
+
+## Week of April 13
+
+| Day | Date | Description |
+|------|---------|------------|
+| Monday | 04/13 | Final presentation Storyboard Feedback |
+| Wednesday | 04/15 | Project CoWork 5 |
+| Sunday | 04/19 | MILESTONE Final Project |
+
+## Week of April 20
+
+| Day | Date | Description |
+|------|---------|------------|
+| Monday | 04/20 | Course Review and Reflection |
+| Wednesday | 04/22 | Showcase |
+| Friday | 04/24 | No Class Personal Refleciton DUE |
+| Sunday | 04/26 | Final Extended Deadline |
 | Thursday | 10/15 | FREE Data Science Summit |
 | Saturday | 10/17 | Tutorial Development |
 
@@ -81,66 +141,6 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 |------|---------|------------|
 | Monday | 10/19 | Nothing Due (Fall Break) |
 | Tuesday | 10/20 | Fall Break |
-| Thursday | 10/22 | CyberAmbassadors Leading the Team |
 | Saturday | 10/24 | Project CoWork |
-
-## Week of October 26
-
-| Day | Date | Description |
-|------|---------|------------|
-| Monday | 10/26 | MILESTONE MVP Presentation Storyboard |
-| Tuesday | 10/27 | MVP Presentation Storyboard Review |
-| Thursday | 10/29 | CyberAmbassadors Leading the Change |
-| Saturday | 10/31 | Tutorial Pull Requests |
-
-## Week of November 2
-
-| Day | Date | Description |
-|------|---------|------------|
-| Monday | 11/02 | MILESTONE MVP Video |
-| Tuesday | 11/03 | MVP Presentations |
-| Thursday | 11/05 | CyberAmbassadors Leading with Principles |
-| Saturday | 11/07 | Deep Tutorial Review |
-
-## Week of November 9
-
-| Day | Date | Description |
-|------|---------|------------|
-| Monday | 11/09 | MILESTONE Reproducability |
-| Tuesday | 11/10 | Figure Reproducibility Review |
-| Thursday | 11/12 | Project CoWork 2 |
-| Saturday | 11/14 | Tutorial Presentations |
-
-## Week of November 16
-
-| Day | Date | Description |
-|------|---------|------------|
-| Monday | 11/16 | MILESTONE Full Project Draft |
-| Tuesday | 11/17 | Full Project Review |
-| Thursday | 11/19 | Project CoWork 3 |
-| Saturday | 11/21 | Project CoWork 4 |
-
-## Week of November 23
-
-| Day | Date | Description |
-|------|---------|------------|
-| Monday | 11/23 | MILESTONE Final Presentation Storyboard |
-| Tuesday | 11/24 | Final presentation Storyboard Feedback |
-| Thursday | 11/26 | Project CoWork 5 |
-| Saturday | 11/28 | Thanksgiving Break |
-
-## Week of November 30
-
-| Day | Date | Description |
-|------|---------|------------|
-| Monday | 11/30 | MILESTONE Final Project |
-| Tuesday | 12/01 | Course Review and Reflection |
-| Thursday | 12/03 | Showcase |
-| Saturday | 12/05 | No Class Personal Refleciton DUE |
-
-## Week of December 7
-
-| Day | Date | Description |
-|------|---------|------------|
-| Monday | 12/07 | Final Extended Deadline |
+|  |  | Thanksgiving Break |
 
