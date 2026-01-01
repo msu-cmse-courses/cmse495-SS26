@@ -36,6 +36,7 @@ When possible, the majority of time outside of class will be dedicated to tasks 
 - [Code Review Instructions and resources](https://www.pyopensci.org/)
 - [README Generator Tool](https://readme.so/editor)
 - [Tutorials for making Potent Presentations](https://www.eval.org/Education-Programs/Potent-Presentations)
+- [Adding your Capstone Experience in your Resume](./Resume)
 
 
 Written by Dr. Dirk Colbry, Michigan State University
