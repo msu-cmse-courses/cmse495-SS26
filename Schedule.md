@@ -130,15 +130,4 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Wednesday | 04/22 | Showcase |
 | Friday | 04/24 | No Class Personal Refleciton DUE |
 | Sunday | 04/26 | Final Extended Deadline |
-| Thursday | 10/15 | FREE Data Science Summit |
-| Saturday | 10/17 | Tutorial Development |
-
-## Week of October 19
-
-| Day | Date | Description |
-|------|---------|------------|
-| Monday | 10/19 | Nothing Due (Fall Break) |
-| Tuesday | 10/20 | Fall Break |
-| Saturday | 10/24 | Project CoWork |
-|  |  | Thanksgiving Break |
 
