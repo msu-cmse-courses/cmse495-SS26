@@ -457,11 +457,11 @@ DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-SS26/Sched
 LOCATION:Engineering Building 1145
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CMSE495: No Class Personal Refleciton DUE
+SUMMARY:CMSE495: No Class Engineering Design Day
 DTSTART;TZID=US/Eastern:20260424T093000
 DTEND;TZID=US/Eastern:20260424T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-SS26/Sched
- ule/0424-No_Class_Personal_Refleciton_DUE'>Link to assignment</a>
+ ule/0424-No_Class_Engineering_Design_Day'>Link to assignment</a>
 LOCATION:Engineering Building 1145
 END:VEVENT
 BEGIN:VEVENT
@@ -470,6 +470,14 @@ DTSTART;TZID=US/Eastern:20260426T093000
 DTEND;TZID=US/Eastern:20260426T104000
 DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-SS26/Sched
  ule/0426-Final_Extended_Deadline'>Link to assignment</a>
+LOCATION:Engineering Building 1145
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMSE495: Final Exam Personal Reflection DUE
+DTSTART;TZID=US/Eastern:20260427T093000
+DTEND;TZID=US/Eastern:20260427T104000
+DESCRIPTION:<a href='https://msu-cmse-courses.github.io/cmse495-SS26/Sched
+ ule/0427-Final_Exam_Personal_Reflection_DUE'>Link to assignment</a>
 LOCATION:Engineering Building 1145
 END:VEVENT
 END:VCALENDAR
