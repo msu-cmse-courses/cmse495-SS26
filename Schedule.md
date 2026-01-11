@@ -14,7 +14,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 01/12 |  [Welcome](0112-Welcome) |
 | Wednesday | 01/14 |  [CyberAmbassadors First Contact](0114-CyberAmbassadors_First_Contact) |
 | Friday | 01/16 |  [Class Agenda Project Review](0116-Class_Agenda_Project_Review) |
-| Sunday | 01/18 | MILESTONE Project Preferences |
+| Sunday | 01/18 |  [MILESTONE Project Preferences](0118-MILESTONE_Project_Preferences) |
 
 ## Week of January 19
 
