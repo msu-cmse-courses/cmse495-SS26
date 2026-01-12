@@ -213,9 +213,9 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 
 Mohammad Rajaian Hoonejani
 **_Email_**: rajaianm@msu.edu  
-**_Office_**: ???   
-**_Virtual Office_**: ???   
-**_Office Hours_**: ???   
+**_Office_**: N/A   
+**_Virtual Office_**: [Moe's Zoom Office] (https://msu.zoom.us/j/96198911253)  
+**_Office Hours_**: Thursday from 8:30 to 9:30 AM   
 
 # Course Policies and Expectations
 
