@@ -12,7 +12,7 @@ The capstone course has the following learning goals:
 
 ## Course Format and Activities
 
-The class will meet three times a week during the 15-week semester and will be delivered **_synchronously_**.  Students are expected to attend class during the designated class period (MWF 12:30-1:40PM). Classroom time will be divided across three broad activity categories:
+The class will meet three times a week during the 15-week semester and will be delivered **_synchronously_**.  Students are expected to attend class during the designated class period (MWF 12:30-1:40PM in EGR 1145). Classroom time will be divided across three broad activity categories:
 
 - Project planning, team meetings, milestones and reports (Mondays)
 - Professional skills training and practice (Wednesdays)
@@ -26,7 +26,7 @@ Class sessions will be held three times a week and broken up into presentations,
 
 Active class participation (led both by the instructors and by students) is critical to the success of this course.  As such, you are expected to attend every class session, bring the required materials and actively participate in the in-class discussions and activities. 
 
-**_Students that have a justifiable need to miss class must notify via email, the instructor, the graduate teaching assistant and their project team prior to the start of class (exception to this rule is only provided for extreme cases)._**
+**_Students that have a justifiable need to miss class must notify via email, the instructors, the graduate teaching assistant and their project team prior to the start of class (exception to this rule is only provided for extreme cases)._**
 
 There is a **_LOT_** of material to cover this semester. To help provide some structure the course will try to following a typical schedule. 
 
@@ -36,7 +36,7 @@ Once students are assigned to a team they will be added to a private team channe
 
 * [Link to Course Teams Channel](https://teams.microsoft.com/l/channel/19%3A4z3zRAgN2sM1vl1fVMkBZ6ddKb0fuYEOxRfm-7TQAok1%40thread.tacv2/General?groupId=6be58af8-47f2-4930-aab1-48e9514126f2&tenantId=22177130-642f-41d9-9211-74237ad5687d)
 
-Teams will be expected to use either email or this channel for team communications. This will help the instructor stay organized and informed. 
+Teams will be expected to use either email or this channel for team communications. This will help the instructors stay organized and informed. 
 
 ### Project Milestones (Typically Due Sunday by Midnight)
 
@@ -55,13 +55,13 @@ Teams are expected to organize and conduct multiple formal team meetings each we
 Additional details and instructions for team meetings can be found [here](Meetings-Notes_and_agendas).
 
 ### Peer Evaluations (Also Typically due on Mondays)
-Student grades will be partially determine by how well you work as a team.  Teamwork can sometimes be difficult but it is required when joining our modern workforce.  Peer evaluations will be used to help the instructor evaluate team dynamics and provide support to the groups if there are some team dynamic issues that need to be resolved. 
+Student grades will be partially determine by how well you work as a team.  Teamwork can sometimes be difficult, but it is required when joining our modern workforce.  Peer evaluations will be used to help the instructors evaluate team dynamics and provide support to the groups if there are some team dynamic issues that need to be resolved. 
 
 **_NOTE_**: Team peer evaluation surveys will be conducted using [CATME](https://www.catme.org/help), an on-line tool though the course [Desire2Learn](http://d2l.msu.edu) website.  
 
 ### Individual and Team Weekly 3x3 Reflections (Due Mondays)
 
-It is expected that everyone will email an individual weekly Three-by-Three reflection to their capstone team on or before class on Monday. Then on Monday the team will summarize their individual 3x3's into one group 3x3 reflection that they send to their instructor for feedback.
+It is expected that everyone will email an individual weekly Three-by-Three reflection to their capstone team on or before class on Monday. Then on Monday the team will summarize their individual 3x3's into one group 3x3 reflection that they send to the instructors for feedback.
 
 Additional details and instructions for how to write 3x3 reflections found [here](Weekly-3x3)
 
@@ -188,10 +188,10 @@ All required readings will be provided as Open Educational Resource (OER) via li
 Dr. Justin Gambrell (he/him)  
 Department of Computational Mathematics, Science and Engineering (CMSE)   
 **_Email_**: gambre11@msu.edu  
-**_Office_**: ???  
+**_Office_**: EB 1501  
 **_Virtual Office_**:  [Justin's Zoom Office](https://msu.zoom.us/j/96475559158)  
 Passcode: 596028  
-**_Office Hours_**:  ???
+**_Office Hours_**: 2:00-3:00 pm and 4:00-5:00 on Fridays. On zoom, but can be in person if requested. Office hours can be by appointment as well. Just email and ask. 
 
 ---
 
@@ -213,9 +213,9 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 
 Mohammad Rajaian Hoonejani
 **_Email_**: rajaianm@msu.edu  
-**_Office_**: ??? 
-**_Virtual Office_**: ???
-**_Office Hours_**: ???
+**_Office_**: ???   
+**_Virtual Office_**: ???   
+**_Office Hours_**: ???   
 
 # Course Policies and Expectations
 

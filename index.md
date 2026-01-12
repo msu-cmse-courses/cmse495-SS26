@@ -23,7 +23,7 @@ When possible, the majority of time outside of class will be dedicated to tasks 
 
 - [Course Syllabus](Syllabus)
 - [Schedule](Schedule)
-- [Course Teams Channel](https://teams.microsoft.com/l/team/19%3AdbqhTZkH-Zz0BLs4_Z99m_YGA0NheodUqwEC4VBycjk1%40thread.tacv2/conversations?groupId=00b9e709-3d27-4397-9b88-ae7ef08a3770&tenantId=22177130-642f-41d9-9211-74237ad5687d)
+- [Course Teams Channel](https://teams.microsoft.com/l/channel/19%3A4z3zRAgN2sM1vl1fVMkBZ6ddKb0fuYEOxRfm-7TQAok1%40thread.tacv2/General?groupId=6be58af8-47f2-4930-aab1-48e9514126f2&tenantId=22177130-642f-41d9-9211-74237ad5687d)
 - [Weekly 3x3 Team Reflections (Due Mondays)](Weekly-3x3)
 - [Instructions for Team Meeting Agenda and Notes](Meetings-Notes_and_agendas)
 - [SCHOLAR Git Repository](https://gitlab.msu.edu/CMSE/SCHOLAR)
