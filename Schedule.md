@@ -23,7 +23,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 01/19 | Holiday University Closed |
 | Wednesday | 01/21 | CyberAmbassadors Teaming Up |
 | Friday | 01/23 | Team Meeting |
-| Sunday | 01/25 | MILESTONE Project Organization |
+| Sunday | 01/25 |  [MILESTONE Project Organization](0125-MILESTONE_Project_Organization) |
 
 ## Week of January 26
 
@@ -49,6 +49,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 |------|---------|------------|
 | Monday | 02/09 | Proposal Presentation Storyboard Review |
 | Wednesday | 02/11 | CyberAmbassadors Lets talk |
+| Friday | 02/13 | No Class Day of Remembrance |
 | Sunday | 02/15 | MILESTONE Plan Video |
 
 ## Week of February 16
