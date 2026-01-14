@@ -32,7 +32,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 01/26 | Anticpating Challenges |
 | Wednesday | 01/28 | CyberAmbassadors Speaking up |
 | Friday | 01/30 | SCHOLAR Review |
-| Sunday | 02/01 | MILESTONE Plan |
+| Sunday | 02/01 |  [MILESTONE Plan](0201-MILESTONE_Plan) |
 
 ## Week of February 2
 
@@ -41,7 +41,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 02/02 | Project Plan |
 | Wednesday | 02/04 | Community Engaged Learning |
 | Friday | 02/06 | SCHOLAR Pull request |
-| Sunday | 02/08 | MILESTONE Plan Video Storyboard |
+| Sunday | 02/08 |  [MILESTONE Plan Video Storyboard](0208-MILESTONE_Plan_Video_Storyboard) |
 
 ## Week of February 9
 
@@ -50,7 +50,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 02/09 | Proposal Presentation Storyboard Review |
 | Wednesday | 02/11 | CyberAmbassadors Lets talk |
 | Friday | 02/13 | No Class Day of Remembrance |
-| Sunday | 02/15 | MILESTONE Plan Video |
+| Sunday | 02/15 |  [MILESTONE Plan Video](0215-MILESTONE_Plan_Video) |
 
 ## Week of February 16
 
@@ -59,7 +59,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 02/16 | Proposal Presentations |
 | Wednesday | 02/18 | CyberAmbassadors Leveling Up |
 | Friday | 02/20 | SCHOLAR Presentations |
-| Sunday | 02/22 | MILESTONE Outreach |
+| Sunday | 02/22 |  [MILESTONE Outreach](0222-MILESTONE_Outreach) |
 
 ## Week of February 23
 
@@ -68,7 +68,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 02/23 | Outreach Review |
 | Wednesday | 02/25 | CyberAmbassadors Its Complicated |
 | Friday | 02/27 | Selection Matrix |
-| Sunday | 03/08 | MILESTONE Install Instructions |
+| Sunday | 03/08 |  [MILESTONE Install Instructions](0308-MILESTONE_Install_Instructions) |
 
 ## Week of March 9
 
@@ -77,7 +77,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 03/09 | Install Instruction Review |
 | Wednesday | 03/11 | CyberAmbassadors Leading the Team |
 | Friday | 03/13 | Tutorial Selection |
-| Sunday | 03/15 | MILESTONE MVP Presentation Storyboard |
+| Sunday | 03/15 |  [MILESTONE MVP Presentation Storyboard](0315-MILESTONE_MVP_Presentation_Storyboard) |
 
 ## Week of March 16
 
@@ -86,7 +86,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 03/16 | MVP Presentation Storyboard Review |
 | Wednesday | 03/18 | CyberAmbassadors Leading the Change |
 | Friday | 03/20 | Tutorial Pull Requests |
-| Sunday | 03/22 | MILESTONE MVP Video |
+| Sunday | 03/22 |  [MILESTONE MVP Video](0322-MILESTONE_MVP_Video) |
 
 ## Week of March 23
 
@@ -95,7 +95,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 03/23 | MVP Presentations |
 | Wednesday | 03/25 | CyberAmbassadors Leading with Principles |
 | Friday | 03/27 | Deep Tutorial Review |
-| Sunday | 03/29 | MILESTONE Reproducability |
+| Sunday | 03/29 |  [MILESTONE Reproducability](0329-MILESTONE_Reproducability) |
 
 ## Week of March 30
 
@@ -104,7 +104,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 03/30 | Figure Reproducibility Review |
 | Wednesday | 04/01 | Project CoWork 2 |
 | Friday | 04/03 | Tutorial Presentations |
-| Sunday | 04/05 | MILESTONE Full Project Draft |
+| Sunday | 04/05 |  [MILESTONE Full Project Draft](0405-MILESTONE_Full_Project_Draft) |
 
 ## Week of April 6
 
@@ -113,7 +113,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Monday | 04/06 | Full Project Review |
 | Wednesday | 04/08 | Project CoWork 3 |
 | Friday | 04/10 | Project CoWork 4 |
-| Sunday | 04/12 | MILESTONE Final Presentation Storyboard |
+| Sunday | 04/12 |  [MILESTONE Final Presentation Storyboard](0412-MILESTONE_Final_Presentation_Storyboard) |
 
 ## Week of April 13
 
@@ -121,7 +121,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 |------|---------|------------|
 | Monday | 04/13 | Final presentation Storyboard Feedback |
 | Wednesday | 04/15 | Project CoWork 5 |
-| Sunday | 04/19 | MILESTONE Final Project |
+| Sunday | 04/19 |  [MILESTONE Final Project](0419-MILESTONE_Final_Project) |
 
 ## Week of April 20
 
