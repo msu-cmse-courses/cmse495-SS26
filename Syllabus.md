@@ -189,8 +189,8 @@ Dr. Justin Gambrell (he/him)
 Department of Computational Mathematics, Science and Engineering (CMSE)   
 **_Email_**: gambre11@msu.edu  
 **_Office_**: EB 1501  
-**_Virtual Office_**:  [Justin's Zoom Office](https://msu.zoom.us/j/96475559158)  
-Passcode: 596028  
+**_Virtual Office_**:  [Justin's Zoom Office](https://msu.zoom.us/j/91770420020)  
+Passcode: 037636  
 **_Office Hours_**: 2:00-3:00 pm and 4:00-5:00 on Fridays. On zoom, but can be in person if requested. Office hours can be by appointment as well. Just email and ask. 
 
 ---
