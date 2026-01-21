@@ -21,7 +21,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 | Day | Date | Description |
 |------|---------|------------|
 | Monday | 01/19 | Holiday University Closed |
-| Wednesday | 01/21 | CyberAmbassadors Teaming Up |
+| Wednesday | 01/21 |  [CyberAmbassadors Teaming Up](0121-CyberAmbassadors_Teaming_Up) |
 | Friday | 01/23 |  [Team Meeting](0123-Team_Meeting) |
 | Sunday | 01/25 |  [MILESTONE Project Organization](0125-MILESTONE_Project_Organization) |
 
