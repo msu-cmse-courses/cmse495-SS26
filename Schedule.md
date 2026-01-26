@@ -29,7 +29,7 @@ Remember both individual and team [3x3 reflections](Weekly-3x3) are due on Monda
 
 | Day | Date | Description |
 |------|---------|------------|
-| Monday | 01/26 | Anticpating Challenges |
+| Monday | 01/26 |  [Anticpating Challenges](0126-Anticpating_Challenges) |
 | Wednesday | 01/28 | CyberAmbassadors Speaking up |
 | Friday | 01/30 | SCHOLAR Review |
 | Sunday | 02/01 |  [MILESTONE Plan](0201-MILESTONE_Plan) |
