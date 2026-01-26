@@ -164,5 +164,59 @@ As the semester neared its end, they found themselves short on time. Despite the
 5. **What could be added to your team charter to help avoid this problem?**
 
 
+
+## 14\. When Jargon Leads You Astray
+
+A student team was tasked with creating an easy-to-use interface for a set of functions that would be shared internally. The goal was to make it simple for others to integrate these functions into their own code. However, during early discussions, the term **“API”** came up, and the students assumed this meant building a **WebAPI**. They spent weeks designing and implementing a robust web service with endpoints, authentication, and deployment infrastructure. The result looked polished and professional—but it wasn’t what the project needed. The overhead of hosting and calling a WebAPI made integration harder, not easier. What the team really needed was a **Package API**: a lightweight Python package with clear function calls and documentation. By the time the mismatch was discovered, the team had invested significant effort in the wrong solution.
+
+### Discussion Questions
+1. **What caused the misunderstanding between “WebAPI” and “Package API”? How could clearer communication have prevented this?**
+2. **What are the risks of assuming technical jargon means the same thing to everyone on the team?**
+3. **How could the team have validated their approach earlier in the project?**
+4. **What strategies can teams use to confirm requirements before committing to a solution?**
+
+
+## 15\. Doing the Job Assigned (When It’s Not the Job You Wanted)
+A student joined a community partner project excited to build predictive models. After kickoff, it became clear the partner’s priority was exploratory data analysis (EDA) and creating clear, stakeholder-friendly visualizations and not advanced modeling. The student was disappointed and complained frequently, even after being reminded multiple times that the agreed scope focused on EDA and visualization. The complaints escalated to the point that other team members found it difficult to work with them, creating tension and slowing progress. Instead of collaborating on the assigned tasks, the student independently pursued a predictive modeling project outside the partner’s needs and the team’s plan. The resulting model was technically correct but not very interesting or useful to the partner. This diversion consumed time, delayed core deliverables, created confusion, and eroded trust with both the team and the community partner.
+
+* What was the professional thing to do in this situation, and how could the student have realigned with the team and the partner’s priorities?
+* How could the team have communicated, negotiated, or phased the work to create space for creative exploration while meeting stakeholder needs and course milestones?
+* What could be added to your team charter that may help avoid this type of problem? (e.g., scope-change protocol; definition of “value” from the partner’s perspective; decision rules for prioritizing assigned tasks over individual initiatives; a process for proposing and approving off-scope explorations; expectations for weekly alignment and status updates)
+
+## 16\. Missing Individual Deliverables Due to Miscommunication
+Halfway through the semester, a student had not submitted any of their required 3x3 individual assignments in the team channel on Microsoft Teams and received zeros for those tasks. When grades were posted, the student complained that they never saw the assignments in Teams. Upon investigation, it turned out their Teams setup was incorrect and did not display the class channel. The student requested a grade change, but instructors declined because all assignment details were clearly posted on the course website from the start. The website is comprehensive and includes instructions for both team and individual deliverables. This situation highlighted that the student had not been regularly checking the course site or clarifying expectations. Language barriers (English as a second language) may have contributed, but ultimately, ignoring unclear instructions led to missed work and poor outcomes.
+
+* How can teams support each other to ensure that both team and individual deliverables are completed on time?
+* What strategies can students use to confirm they understand assignment requirements—especially when instructions seem confusing or when technology issues arise?
+* What could be added to your team charter to encourage proactive communication and accountability? (e.g., weekly check-ins on individual tasks; reminders to review the course site; a process for asking questions early when unsure about expectations)
+
+
+## 17\. Professionalism Means Different Things
+
+A student team worked with an industry partner on a data analysis project. Most communication occurred through email and scheduled
+virtual meetings. The students aimed to be efficient and professional, often using brief messages, bullet points, and direct feedback
+when discussing progress or raising concerns.
+
+As the project progressed, the industry partner became less responsive and appeared increasingly frustrated during meetings. Eventually,
+the partner contacted the instructor to express concerns that the students’ communication felt abrupt and unprofessional, and that they
+seemed disengaged. The students were surprised by this feedback, as they believed they had been clear, respectful, and appropriately
+business‑like.
+
+At the same time, the students felt confused by the partner’s communication style, which included indirect feedback and unclear responses
+about priorities and deadlines. These differences led to misunderstandings and eroded trust. Neither the team nor the partner had discussed
+expectations around communication style or professional norms at the start of the project.
+
+The team ultimately completed the technical work successfully, but the strained relationship limited collaboration and satisfaction on both
+sides. The students realized that differing assumptions about what “professionalism” looks like had created challenges that were never
+explicitly addressed.
+
+### Discussion Questions
+
+1. How can differing expectations about professionalism affect team–partner relationships?
+2. What could the team have done early in the project to clarify communication norms?
+3. How should students respond when their behavior is perceived as unprofessional, even if no harm was intended?
+4. What could be added to a team charter to help navigate differences in communication styles and expectations?
+
+
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
